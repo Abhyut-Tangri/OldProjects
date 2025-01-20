@@ -1,0 +1,5 @@
+print('Rocky Road')
+print('Abhyut')
+print('Press enter to end.')
+print('Never give up till its over')
+print('Satoshi Tagiri')

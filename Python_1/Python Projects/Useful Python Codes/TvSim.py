@@ -1,0 +1,6 @@
+starterChannel = input('what channel would you like to start with? (Choose a number)')
+print('Ok your are channel', starterChannel, 'Right now on this channel Fox News is ranting about how good trump is and how he should have been president' )
+starterVolume = input('What would you like to start the volume as?')
+print ('The volume is now', starterVolume)
+starterVolume2 = input ('Would you like to turn up the volume (Put the negative sign if you want to lower the volume. )')
+print(' The volume is now', starterVolume - starterVolume2) 

@@ -1,0 +1,5 @@
+print('Hello This Is My First Program')
+print('My name is Abhyut')
+print ('I am 11 years old')
+print('My Birthday is on July 16')
+print('Python is my secound programming language that I am learning, I have learnt a lot of javascript')

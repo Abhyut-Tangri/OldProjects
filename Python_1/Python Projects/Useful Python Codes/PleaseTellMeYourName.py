@@ -1,0 +1,5 @@
+FirstName= input("What is your first name? ")
+MiddleName= input('What is your middle name? (If You dont have a middle name put a space)')
+LastName= input("What is your last name? ")
+print('Hello', FirstName , MiddleName , LastName)
+print('What a unique name!')
