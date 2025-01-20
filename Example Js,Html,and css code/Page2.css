@@ -1,0 +1,144 @@
+ #lorem {
+
+
+background: black;
+color:white;
+
+border: 3px solid red;
+
+padding: 13px;
+
+margin: 10px auto;
+
+
+ }
+
+
+
+
+
+
+#normal {
+
+font-style: normal;
+
+}
+
+#italic {
+
+font-style: italic;
+
+}
+
+#oblique {
+
+font-style: oblique;
+
+}
+
+#smallcaps {
+
+font-variant:small-caps;
+
+  }
+
+#Wnormal {
+
+  font-weight: normal;
+
+}
+
+#Wbold {
+
+font-weight: bold;
+
+}
+
+#Wbolder {
+
+font-weight: bolder;
+
+}
+
+#Wlighter {
+
+font-weight: lighter;
+
+}
+#XXlarger{
+
+	font-size: xx-large;
+
+
+}
+
+#large{
+
+	font-size: large;
+
+
+}
+
+#medium{
+
+font-size: medium;
+}
+
+
+#small{
+
+font-size: small;
+
+}
+
+#size25pt{
+
+font-size: 25pt;
+
+}
+
+#size150{
+
+font-size: 150%;
+
+}
+
+#linenormal{
+
+line-height: normal;
+
+}
+
+#line25{
+
+line-height: 25pt;
+
+}
+
+#line200{
+
+line-height: 200%;
+}
+
+
+
+
+ol{
+
+width: 100px;
+padding: 10px;
+margin: 100px auto;
+background:black;
+color: white;
+max-height: 300px;
+overflow:scroll;
+scroll-behavior: auto;
+}
+
+
+
+      img {
+
+float: left;
+
+ }

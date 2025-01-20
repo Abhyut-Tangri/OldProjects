@@ -1,0 +1,67 @@
+a:hover {
+
+background-color: white;
+color: white;
+
+}
+
+body {
+
+
+	background-color: blue;
+}
+
+
+header{
+
+	padding: 0px 0px 10px 0px;
+}
+
+#horzNav {
+
+
+display: black;
+background: black;
+color: white;
+
+}
+/*
+
+#para-1{
+
+
+word-spacing: 10px;
+
+}
+*/
+
+#para-1:after{
+
+	content: "@@@@";
+}
+
+#para-2{
+
+	letter-spacing: 10px;
+
+}
+
+footer{
+
+
+	clear: both;
+	background-color: black;
+	color: white;
+}
+
+ul{
+
+
+	list-style: square;
+}
+
+ol{
+
+
+	list-style-type: lower-greek;
+}

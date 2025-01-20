@@ -1,0 +1,58 @@
+ul{
+
+
+	background-color: red;
+	width: 360px;
+	margin: 100px auto;
+}
+
+
+li:nth-child(2n){
+
+
+	background-color: gray;
+}
+
+li:first-child{
+
+
+ background-color: white;
+}
+
+li:last-child{
+
+
+ background-color: white;
+}
+
+p{
+background: #f7f7f7;
+color:black;
+
+marigin:0 auto;
+width:400px;
+/*box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	outline: none;*/
+
+  /*box-shadow: 10px 10px 8px 10px #888888;*/
+  box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+}
+/*
+p:first-line{
+
+text-transform: uppercase;
+
+}
+
+
+p:first-letter{
+
+text-transform: uppercase;
+ 
+p:hover{
+background:black
+color:red
+cursor: crosshair;
+
+}
+*/
